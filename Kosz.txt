@@ -1,0 +1,35 @@
+     miejscowosc:katowice     wiek:21     stanowisko:marketer       
+  
+  Data usuniecia :Fri Jan 17 09:47:44 2020
+	 
+ Imie:Grazyna     miejscowosc:warszawa     wiek:38     stanowisko:recepcja       
+  
+  Data usuniecia :Fri Jan 17 09:48:03 2020
+	 
+ Imie:Elzbieta     miejscowosc:warszawa     wiek:21     stanowisko:admin       
+  
+  Data usuniecia :Fri Jan 17 09:49:56 2020
+	 
+ Imie:Grzegorz     miejscowosc:katowice     wiek:27     stanowisko:ochrona       
+  
+  Data usuniecia :Fri Jan 17 09:58:09 2020
+	 
+ Imie:emil     miejscowosc:katowice     wiek:28     stanowisko:programista       
+  
+  Data usuniecia :Fri Jan 17 09:58:12 2020
+	 
+ Imie:Daniel     miejscowosc:katowice     wiek:21     stanowisko:marketer       
+  
+  Data usuniecia :Fri Jan 17 09:58:15 2020
+	 
+ Imie:Grazyna     miejscowosc:warszawa     wiek:38     stanowisko:recepcja       
+  
+  Data usuniecia :Fri Jan 17 10:35:07 2020
+	 
+ Imie:Grazyna     miejscowosc:warszawa     wiek:38     stanowisko:recepcja       
+  
+  Data usuniecia :Fri Jan 17 10:35:11 2020
+	 
+ Imie:Elzbieta     miejscowosc:warszawa     wiek:21     stanowisko:admin       
+  
+  
